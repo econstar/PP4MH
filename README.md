@@ -3,7 +3,7 @@
 
 
 
-## This package contain 🌏🎨 Descriptive Maps using Plotly
+## This package contain 🌏🎨 Descriptive Maps using Plotly deployed in app
 
 <table>
   <tr>
