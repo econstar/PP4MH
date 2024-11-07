@@ -40,7 +40,7 @@ ui <- fluidPage(
                         selected = "underweight"),
 
             hr(),
-            p("Size and color represent the intensity of the selected variable",
+            p("Size and color represent the intensity of the selected variable Data Source : Antyodaya Survey 2020",
               style = "font-size: 14px; color: #7f8c8d;")
         ),
 
