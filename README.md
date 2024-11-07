@@ -7,8 +7,7 @@
 
 <table>
   <tr>
-    <td>  ![sss](https://github.com/user-attachments/assets/a2bd4580-bd01-4f02-b55c-d76a45e9c4d7)
-    </td>
+    <td>  <img src ='https://i.imgur.com/y4ifM8v.png'> </td>
   </tr>
 </table>
 
