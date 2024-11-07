@@ -1,3 +1,10 @@
+
+ <!-- badges: start -->
+  [![R-CMD-check](https://github.com/econstar/PP4MH/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/econstar/PP4MH/actions/workflows/R-CMD-check.yaml)
+  <!-- badges: end -->
+
+
+
 ## This package contain 🌏🎨 Descriptive Maps using Plotly
 
 ![sss](https://github.com/user-attachments/assets/6763222b-1c7b-4ec7-a50c-e0cdc2233515)
