@@ -1,0 +1,18 @@
+Package: PP4MH
+Type: Package
+Title: Descriptive Maps of maharashtra 
+Version: 0.1.0
+Author: Mahesh Suryawanshi [aut]
+Maintainer: The package maintainer <mr.mahesh.econ@gmail.com>
+Description:Public Provisioning in Maharashtra
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    ggplot2,
+    dplyr,
+    sf,
+    viridis,
+    plotly
+RoxygenNote: 7.3.2
