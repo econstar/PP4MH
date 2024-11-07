@@ -1,7 +1,5 @@
 
- <!-- badges: start -->
-  [![R-CMD-check](https://github.com/econstar/PP4MH/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/econstar/PP4MH/actions/workflows/R-CMD-check.yaml)
-  <!-- badges: end -->
+
 
 
 
