@@ -5,7 +5,14 @@
 
 ## This package contain 🌏🎨 Descriptive Maps using Plotly
 
-![sss](https://github.com/user-attachments/assets/6763222b-1c7b-4ec7-a50c-e0cdc2233515)
+<table>
+  <tr>
+    <td>  ![sss](https://github.com/user-attachments/assets/a2bd4580-bd01-4f02-b55c-d76a45e9c4d7)
+    </td>
+  </tr>
+</table>
+
+
 
 ## Data Source 
 
