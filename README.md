@@ -21,6 +21,6 @@ Mission Antyodaya Survey 2020
 
 ## install package in R set up 
 
-devtools::install_github("https://github.com/econstar/PP4MH")
+devtools::install_github("https://github.com/Data4Bahujan/PP4MH")
 
 launch_app() will open app 
